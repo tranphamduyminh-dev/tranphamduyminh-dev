@@ -1,6 +1,6 @@
 Xin chào!
 
-Mình là Duy Minh, mình quan tâm đến máy tính, phần cứng, và Web Fullstack!
+Mình là https://www.facebook.com/tranphamduyminh.qb/ , mình quan tâm đến máy tính, phần cứng, và Web Fullstack!
 - 🌱 Hiện tại mình đang học C++,Front-End và Cấu trúc dữ liệu giải thuật.
 - 💞️ :) Love Yousefl! 
 - 📫 Liên hệ mình qua: tranphamduyminh.work@gmail.com
