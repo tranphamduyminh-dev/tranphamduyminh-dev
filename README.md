@@ -1,18 +1,16 @@
 # Xin chào! 👋
 
-Tôi là [Trần Phạm Duy Minh](https://www.facebook.com/tranphamduyminh.qb/), một người đam mê công nghệ, máy tính, và lập trình Web Fullstack!
+Tôi là [Trần Phạm Duy Minh](https://www.facebook.com/tranphamduyminh.qb/), là một cá nhân đam mê công nghệ, máy tính, và lập trình Web Fullstack!
 
-🌱 Hiện tại, tôi đang tập trung học C++, Front-End, và cấu trúc dữ liệu giải thuật, với mục tiêu trở thành Fulstack Web Developer.
+🌱 Hiện tại, tôi đang học C++, Front-End, và cấu trúc dữ liệu giải thuật, với mục tiêu trở thành Fulstack Web Developer.
 
-💞️ Yêu bản thân mình! 
+💞️ Love Youself! 
 
 📫 Bạn có thể liên hệ với tôi qua email: tranphamduyminh.work@gmail.com
 
 ## Về tôi
 
-Tôi là một người tò mò và đam mê với công nghệ, máy móc, và mọi thứ liên quan. Mặc dù tôi không có năng lực tuyệt vời trong những lĩnh vực này, nhưng tôi không ngừng học hỏi và khám phá.
-
-Tính cách của tôi có phần "Crazy," làm cho tôi trở thành một người khá khó ưa, nhưng đồng thời cũng mang lại sự độc đáo và sáng tạo trong công việc của mình.
+Tôi là một người tò mò và đam mê với công nghệ, máy móc, và mọi thứ liên quan. Mặc dù tôi nhận thức rõ về những thách thức trong lĩnh vực này nhưng tôi sẽ không ngừng nỗ lực để nâng cao kĩ năng của bản thân và đạt được những thành tựu mới.
 
 ## Quan điểm sống
 
