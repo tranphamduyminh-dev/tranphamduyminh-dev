@@ -1,26 +1,21 @@
-# Xin chào! 👋
+Hello! 👋
+I am Trần Phạm Duy Minh, an individual passionate about technology, computers, and Fullstack Web development!
 
-Tôi là [Trần Phạm Duy Minh](https://www.facebook.com/tranphamduyminh.qb/), là một cá nhân đam mê công nghệ, máy tính, và lập trình Web Fullstack!
+🌱 Currently, I am learning C++, Front-End, and data structures algorithms, with the goal of becoming a Fullstack Web Developer.
 
-🌱 Hiện tại, tôi đang học C++, Front-End, và cấu trúc dữ liệu giải thuật, với mục tiêu trở thành Fulstack Web Developer.
+💞️ Love Yourself!
 
-💞️ Love Youself! 
+📫 You can contact me via email: tranphamduyminh.work@gmail.com
 
-📫 Bạn có thể liên hệ với tôi qua email: tranphamduyminh.work@gmail.com
+About Me
+I am a curious individual with a passion for technology, machinery, and everything related. Although I am well aware of the challenges in this field, I will ceaselessly strive to enhance my skills and achieve new milestones.
 
-## Về tôi
+Life Philosophy
+I believe life is short, and I enjoy doing what I love without caring about the opinions of others. Life is too brief to waste time worrying about unimportant opinions.
 
-Tôi là một người tò mò và đam mê với công nghệ, máy móc, và mọi thứ liên quan. Mặc dù tôi nhận thức rõ về những thách thức trong lĩnh vực này nhưng tôi sẽ không ngừng nỗ lực để nâng cao kĩ năng của bản thân và đạt được những thành tựu mới.
-
-## Quan điểm sống
-
-Tôi tin rằng cuộc sống ngắn ngủi, và tôi thích làm những điều tôi yêu thích mà không quan tâm đến ý kiến của người khác. Cuộc đời quá ngắn để mất thời gian lo lắng về những ý kiến không quan trọng.
-
-## Kết nối với tôi
-
-- [Facebook](https://www.facebook.com/tranphamduyminh.qb/)
-- [GitHub](https://github.com/tranphamduyminh-dev)
-
+Connect with Me
+Facebook
+GitHub
 <!---
 tranphamduyminh-dev/tranphamduyminh-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
