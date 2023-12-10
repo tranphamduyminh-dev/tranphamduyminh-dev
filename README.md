@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Trần Phạm Duy Minh, an individual passionate about technology, computers, and Fullstack Web development!
+I am Tran Pham Duy Minh, an individual passionate about technology, computers, and Fullstack Web development!
 
 🌱 Currently, I am learning C++, Front-End, and data structures algorithms, with the goal of becoming a Fullstack Web Developer.
 
