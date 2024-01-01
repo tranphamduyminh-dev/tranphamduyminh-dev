@@ -21,6 +21,8 @@ I believe life is short, and I enjoy doing what I love without caring about the 
 - [Facebook](https://www.facebook.com/tranphamduyminh.qb/)
 - [GitHub](https://github.com/tranphamduyminh-dev)
 
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphamduyminh-dev&theme=dracula&hide_border=SAI&locale=vi)](https://git.io/streak-stats)
 <!---
 tranphamduyminh-dev/tranphamduyminh-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
