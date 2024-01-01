@@ -1,6 +1,6 @@
 # Hello! 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphamduyminh-dev&theme=dracula&hide_border=&border_radius=20&locale=vi&card_width=550)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tranphamduyminh-dev" alt="GitHub Streak" /></a>
 
 I am Tran Pham Duy Minh, an individual passionate about technology, computers, and Fullstack Web development!
 
