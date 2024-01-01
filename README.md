@@ -1,5 +1,7 @@
 # Hello! 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphamduyminh-dev&theme=dracula&hide_border=&border_radius=20&locale=vi&card_width=550)](https://git.io/streak-stats)
+
 I am Tran Pham Duy Minh, an individual passionate about technology, computers, and Fullstack Web development!
 
 🌱 Currently, I am learning C++, Front-End, and data structures algorithms, with the goal of becoming a Fullstack Web Developer.
@@ -21,8 +23,8 @@ I believe life is short, and I enjoy doing what I love without caring about the 
 - [Facebook](https://www.facebook.com/tranphamduyminh.qb/)
 - [GitHub](https://github.com/tranphamduyminh-dev)
 
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphamduyminh-dev&theme=dracula&hide_border=SAI&locale=vi)](https://git.io/streak-stats)
+
+
 <!---
 tranphamduyminh-dev/tranphamduyminh-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
