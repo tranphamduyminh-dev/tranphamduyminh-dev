@@ -14,6 +14,8 @@ I am Tran Pham Duy Minh, an individual passionate about technology, computers, a
 
 I am a curious individual with a passion for technology, machinery, and everything related. Although I am well aware of the challenges in this field, I will ceaselessly strive to enhance my skills and achieve new milestones.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tranphamduyminh-dev&theme=github_dark)
+
 ## Life Philosophy
 
 I believe life is short, and I enjoy doing what I love without caring about the opinions of others. Life is too brief to waste time worrying about unimportant opinions.
